@@ -14,7 +14,8 @@ window.onload = function () {
 }
 
 // Counter variable
-var counterVal = 0;
+let counterVal = 0;
+
 
 // Increment by one
 function incrementClick() {
@@ -23,7 +24,7 @@ function incrementClick() {
 
 // multiply by counter by 2
 function multiplierClick() {
-   updateDisplay(counterVal * 2);
+   updateDisplay(counterVal *= 2);
 }
 
 // function to reset the counter to 0 and calls updatedisplay function
