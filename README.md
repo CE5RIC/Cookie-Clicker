@@ -1,5 +1,7 @@
 # Cookie-Clicker
 
+https://ce5ric.github.io/Cookie-Clicker/
+
 A Becode project
 
 Created 4 buttons in HTML to start my project of an incremental game.
